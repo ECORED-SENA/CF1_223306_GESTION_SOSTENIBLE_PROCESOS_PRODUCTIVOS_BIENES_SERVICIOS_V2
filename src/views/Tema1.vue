@@ -99,7 +99,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Qué es el proceso administrativo y cuáles son sus etapas?
+              h4.mb-1 ¿Qué es el proceso administrativo y cuáles son sus etapas?
               p.text-small.mb-0 Para complementar este tema, observe el video: ¿Qué es el proceso administrativo y cuáles son sus etapas?, que se encuentra en el material complementario de este componente formativo.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=QqcjI-zZyb8" target="_blank")
@@ -335,11 +335,12 @@
               i.fas.fa-search
             .indicador--click(v-if="mostrarIndicador")
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/30.svg', alt='Esquema de la planificación estratégica, sus cuatro áreas fundamentales de análisis junto con sus preguntas clave.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 1
               span Cuadro de mando integral
+            figure
+              img(src='@/assets/curso/temas/tema1/30.svg', alt='Esquema de la planificación estratégica, sus cuatro áreas fundamentales de análisis junto con sus preguntas clave.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Mapa de procesos
@@ -348,11 +349,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/31.svg', alt='Esquema de un mapa de procesos de una organización, específicamente: estratégicos, operativos y de soporte.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 2
               span Mapa de procesos
+            figure
+              img(src='@/assets/curso/temas/tema1/31.svg', alt='Esquema de un mapa de procesos de una organización, específicamente: estratégicos, operativos y de soporte.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Análisis de recursos y capacidades
@@ -361,11 +363,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/32.svg', alt='El análisis de recursos y capacidades consiste en la medición, evaluación y gestión de dotación.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 3
               span Fases del análisis de recursos y capacidades
+            figure
+              img(src='@/assets/curso/temas/tema1/32.svg', alt='El análisis de recursos y capacidades consiste en la medición, evaluación y gestión de dotación.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Análisis FODA
@@ -374,11 +377,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/33.svg', alt='Esquema de un análisis FODA en el que se explican las fortalezas, oportunidades, debilidades y amenazas.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 4
               span Esquema del análisis FODA
+            figure
+              img(src='@/assets/curso/temas/tema1/33.svg', alt='Esquema de un análisis FODA en el que se explican las fortalezas, oportunidades, debilidades y amenazas.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Análisis PESTEL
@@ -387,11 +391,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/34.svg', alt='Esquema de un análisis PESTEL: político, económico, sociocultural, tecnológico, ecológico y legal.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 5
               span Matriz de análisis PESTEL
+            figure
+              img(src='@/assets/curso/temas/tema1/34.svg', alt='Esquema de un análisis PESTEL: político, económico, sociocultural, tecnológico, ecológico y legal.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Análisis de brechas
@@ -400,11 +405,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/35.svg', alt='Esquema en el que se compara el estado actual con el estado deseado. En esta comparación se desarrolla el plan de acción.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 6
               span Análisis de brechas
+            figure
+              img(src='@/assets/curso/temas/tema1/35.svg', alt='Esquema en el que se compara el estado actual con el estado deseado. En esta comparación se desarrolla el plan de acción.').mb-3
+
         .row
           .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2
             h4 Análisis de las cinco fuerzas de Porter
@@ -429,11 +435,12 @@
               span Ampliar imagen
               i.fas.fa-search
           .col-lg-6.order-lg-2.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/36.svg', alt='Esquema en el que se muestran las fuerzas cinco fuerzas de Porter.').mb-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 7
               span Análisis de las cinco fuerzas de Porter
+            figure
+              img(src='@/assets/curso/temas/tema1/36.svg', alt='Esquema en el que se muestran las fuerzas cinco fuerzas de Porter.').mb-3
+
     ModalA(:abrir-modal.sync="modal1")
       figure
         img(src='@/assets/curso/temas/tema1/30.svg', alt='Esquema de la planificación estratégica, sus cuatro áreas fundamentales de análisis junto con sus preguntas clave.')
@@ -459,14 +466,14 @@
       h4.mb-0 Indicadores de gestión
     p.mb-5(data-aos='fade-right') Son mecanismos que evalúan el desempeño y resultados de una organización con respecto a objetivos, responsabilidades y metas, para concretar si está teniendo éxito. Estos indicadores son:
     .margin-n(style='background-color: #F4F0FF' data-aos="zoom-in").px-5.py-4
+      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+        h5 Figura 8
+        span Indicadores de gestión
       .row.justify-content-center.align-items-center
-        .col-lg-5
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 8
-            span Indicadores de gestión
+        .col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/37.svg', alt='')
         .col-lg-7
-          img(src='@/assets/curso/temas/tema1/38.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/38.svg', alt="Un gráfico que presenta cinco categorías de indicadores utilizados en la gestión de procesos y tareas. Los indicadores incluyen: 'Indicadores de gestión', que facilitan la aplicación de un proceso; 'Indicadores de cumplimiento', que se refieren al cumplimiento de tareas o funciones; 'Indicadores de evaluación', que evalúan el rendimiento de actividades o procesos; 'Indicadores de eficacia', que identifican la efectividad en la realización de tareas; y 'Indicadores de eficiencia', que indican la capacidad para ejecutar un trabajo con el mínimo de recursos.")
 
 
 

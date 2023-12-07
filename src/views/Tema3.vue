@@ -14,7 +14,7 @@
             h5 Figura 9
             span Partes interesadas internas y externas
           img(src='@/assets/curso/temas/tema2/6.svg', alt='Esquema de las partes internas (empleados, gerentes y propietarios) y partes externas (proveedores, sociedad, gobiernos, acreedores y clientes).')
-        .col-lg-5.col-8
+        .col-lg-5.col-8.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema2/7.svg', alt='')
       hr.border-3
     //TODO agregar el enlace ---------------------------------------------------------

@@ -109,26 +109,32 @@
                 ol.lista-ol.ms-3
                   li
                     span.text-bold a.
-                    |  El medio con que se recoge la información, los instrumentos y los procesos usados.
+                    span El medio con que se recoge la información, los instrumentos y los procesos usados.
                   li
                     span.text-bold b.
-                    | El método empleado para recolectar la información, la cual se hace de dos formas: primero, el utilizado para adquirir información desde el cliente y el utilizado para adquirirla desde el consultor.
+                    span El método empleado para recolectar la información, la cual se hace de dos formas: primero, el utilizado para adquirir información desde el cliente y el utilizado para adquirirla desde el consultor.
                   li
                     span.text-bold c.
-                    | La periodicidad con que se recopila la información, donde se apoya la estabilidad del proceso.
+                    span La periodicidad con que se recopila la información, donde se apoya la estabilidad del proceso.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema5/9.jpg', alt='Texto que describa la imagen')
           .row
             .col-md-8.mb-4.mb-md-0.order-lg-2.order-1
-              h4 Organización de la información
-              p Se tienen en cuenta tres variables fundamentales:
-                br
-                span.ms-3 a. El diseño de la metodología para el procesamiento de la información.
-                br
-                span.ms-3 b. El almacenamiento adecuado de los datos recopilados.
-                br
-                span.ms-3 c. La organización de la información, de tal manera que sea fácil acceder a ella.
+              .text-left
+                h4 Organización de la información
+                p Se tienen en cuenta tres variables fundamentales:
+                  br
+                  ol.lista-ol.ms-3
+                    li
+                      span.text-bold a.
+                      span El diseño de la metodología para el procesamiento de la información.
+                    li
+                      span.text-bold b.
+                      span El almacenamiento adecuado de los datos recopilados.
+                    li
+                      span.text-bold c.
+                      span La organización de la información, de tal manera que sea fácil acceder a ella.
             .col-md-4.order-lg-1.order-2
               figure
                 img(src='@/assets/curso/temas/tema5/10.jpg', alt='Texto que describa la imagen')

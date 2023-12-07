@@ -109,14 +109,14 @@ export default {
     {
       tema: 'Procesos administrativos',
       referencia:
-        '<em>Lifeder Education. </em> (2022) ¿Qué es el Proceso Administrativo y cuáles son sus etapas? [Video]. YouTube. ',
+        '<em>Lifeder Education. </em> (2022) ¿Qué es el Proceso Administrativo y cuáles son sus etapas?. ',
       tipo: 'Video      ',
       link: 'https://www.youtube.com/watch?v=QqcjI-zZyb8',
     },
     {
       tema: 'Responsabilidad Social Empresarial',
       referencia:
-        '<em>Lifeder Education.</em> (2021) ¿Qué es la Responsabilidad Social? [Video]. YouTube. ',
+        '<em>Lifeder Education.</em> (2021) ¿Qué es la Responsabilidad Social?. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=L7SDdGAImsA',
     },
@@ -131,21 +131,21 @@ export default {
     {
       tema: 'Partes interesadas',
       referencia:
-        'Lteam Training. (2016). Partes Interesadas <em>Stakeholders</em> [Video]. YouTube. ',
+        'Lteam Training. (2016). Partes Interesadas <em>Stakeholders</em>. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9AtaIAZEu0c',
     },
     {
       tema: 'Desarrollo sostenible',
       referencia:
-        'KanelaMental. (2021). El Desarrollo Sostenible y sus pilares fundamentales [Video]. YouTube.  ',
+        'KanelaMental. (2021). El Desarrollo Sostenible y sus pilares fundamentales.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OZlUTG07XFQ',
     },
     {
       tema: 'Diagnóstico y técnicas de recolección organizacional',
       referencia:
-        'Lifeder Education. (2022) ¿Qué es el Diagnóstico organizacional y para qué sirve? [Video]. YouTube.',
+        'Lifeder Education. (2022) ¿Qué es el Diagnóstico organizacional y para qué sirve?.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=SnJz_2__fC0',
     },
@@ -215,49 +215,67 @@ export default {
   referencias: [
     {
       referencia:
-        'Benavides, C. (2016). Definiendo las partes interesadas en ISO 9001:2015. Calidad para Pymes.  ',
+        'Benavides, C. (2016). <em>Definiendo las partes interesadas en ISO 9001:2015</em>. Calidad para Pymes.  ',
       link:
         'https://es.linkedin.com/pulse/definiendo-las-partes-interesadas-en-iso-90012015-benavides-gallegos',
     },
     {
       referencia:
-        'Business at Speed. (2018). ¿Qué indicadores miden la sostenibilidad de tu empresa? PHC <em> Software.</em> ',
+        'Business at Speed. (2018). <em>¿Qué indicadores miden la sostenibilidad de tu empresa? PHC Software.</em> ',
       link:
         'https://phcsoftware.pe/business-at-speed/indicadores-sostenibilidad-empresa/',
     },
     {
       referencia:
-        'Calvo, E. (s. f.). Influencia de <em> Stakeholders</em> en el Proyecto. BSG Institute.  ',
+        'Calvo, E. (s. f.). <em>Influencia de Stakeholders en el Proyecto</em>. BSG Institute.  ',
       link:
         'https://bsginstitute.com/bs-campus/blog/influencia-de-stakeholders-en-el-proyecto-69',
     },
     {
       referencia:
-        'Conexión ESAN. (2016)¿Qué es el mapa de procesos de la organización?. ESAN Graduate School of Business.  ',
+        'Conexión ESAN. (2016) <em>¿Qué es el mapa de procesos de la organización?</em>. ESAN Graduate School of Business.  ',
       link:
         'https://www.esan.edu.pe/conexion-esan/que-es-el-mapa-de-procesos-de-la-organizacion',
     },
     {
       referencia:
-        'Duque, Y., Cardona, M. y Rendón, J. (2014). Responsabilidad Social Empresarial: Teorías, índices, estándares y certificaciones. Cuadernos de administración, 29(50), p. 196–206. ',
+        'Duque, Y., Cardona, M. y Rendón, J. (2014). <em>Responsabilidad Social Empresarial: Teorías, índices, estándares y certificaciones. Cuadernos de administración</em>, 29(50), p. 196–206. ',
       link:
         'https://www.academia.edu/71951475/Responsabilidad_Social_Empresarial_Teor%C3%ADas_%C3%ADndices_est%C3%A1ndares_y_certificaciones',
     },
     {
       referencia:
-        'Editorial Grudemi. (2018). Organización. Enciclopedia Económica.  ',
+        'Editorial Grudemi. (2018). <em>Organización</em>. Enciclopedia Económica.  ',
       link: 'https://enciclopediaeconomica.com/organizacion/',
     },
     {
       referencia:
-        'Enciclopedia Concepto. (s. f.). Proceso administrativo. Concepto ',
+        'Enciclopedia Concepto. (s. f.). <em>Proceso administrativo</em>. Concepto ',
       link: 'https://concepto.de/proceso-administrativo/',
     },
     {
       referencia:
-        'ISOTools. (2016). Mapa de procesos según la nueva ISO 9001 2015.  ',
+        'ISOTools. (2016). <em>Mapa de procesos según la nueva ISO 9001 2015</em>.  ',
       link:
         'https://www.isotools.org/2016/05/11/mapa-procesos-nueva-iso-9001-2015/',
+    },
+    {
+      referencia:
+        'Meza, A. (2020). <em>El Diagnóstico Organizacional: elementos, métodos y técnicas</em>. Mi Espacio.',
+      link:
+        'https://www.infosol.com.mx/miespacio/el-diagnostico-organizacional-elementos-metodos-y-tecnicas/',
+    },
+    {
+      referencia:
+        'URSE. (2015). <em>Conceptos y primeros pasos en RSE</em>. CEPB.',
+      link:
+        'https://www.cepb.org.bo/urse/wp-content/uploads/2015/03/GUIA1Vweb.pdf',
+    },
+    {
+      referencia:
+        'Velásquez, L. y D’Armas, M. (2015). El ingeniero con conciencia social: Una posibilidad para el desarrollo sostenible. <em>Universidad, Ciencia y Tecnología, 19(74)</em>, p. 25–38.',
+      link:
+        'http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212015000100003',
     },
   ],
   creditos: [

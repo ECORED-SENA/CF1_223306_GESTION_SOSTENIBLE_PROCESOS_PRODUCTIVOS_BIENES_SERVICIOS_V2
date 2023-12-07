@@ -15,11 +15,12 @@
             img.imagen-g(src='@/assets/curso/temas/tema2/1.svg', alt='' )
             p.mb-0 #[b El objetivo de la responsabilidad social empresarial es que la organización, a partir de estas prácticas, impacte de manera significativa a la sociedad, generando una mayor competitividad y sostenibilidad en la empresa.]
               br
+              br
               |Es por esta razón que, si la empresa es socialmente responsable, generaría mayor productividad, puesto que mejora las condiciones para los trabajadores, optimizando su eficacia. Con esta herramienta, se crea un buen clima laboral y los empleados están a gusto en el trabajo, obteniendo resultados positivos.
     //TODO agregar el enlace ---------------------------------------------------------
     .tarjeta.bg-color-adicional-2.p-4.mb-5(data-aos="zoom-in")
       .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
+        .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
           img(src="@/assets/curso/temas/tema1/10.svg")
         .col
           .row.justify-content-between.align-items-center

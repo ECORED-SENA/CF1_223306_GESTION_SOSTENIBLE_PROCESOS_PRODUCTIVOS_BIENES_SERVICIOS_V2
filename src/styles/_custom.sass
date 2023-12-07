@@ -72,6 +72,13 @@ $float-distance3: -20px
       margin-right: 7px
       font-size: 1.4rem
 
+.lista-ol
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
 
 .bg-full
   margin-left: -48px
@@ -164,3 +171,10 @@ $float-distance3: -20px
 
 .txt-color-acento-contenido
   color: $color-acento-contenido
+
+@media (max-width: 768px)
+  .img-infografica-b__item
+    width: 3%
+
+.text-left
+  text-align: left !important
