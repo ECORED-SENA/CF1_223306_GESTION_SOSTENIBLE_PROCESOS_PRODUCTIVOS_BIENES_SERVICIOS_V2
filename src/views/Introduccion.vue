@@ -16,7 +16,7 @@
             img(src='@/assets/curso/temas/intro.svg', alt='')
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/PjuxGBoCVmk" title="La organización y su naturaleza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/i6OXS9JGd2w?si=mr4mysRql1KqBWOX" title="La organización y su naturaleza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. La organización y su naturaleza
 
 </template>
