@@ -256,8 +256,7 @@ export default {
     {
       referencia:
         'ISOTools. (2016). <em>Mapa de procesos según la nueva ISO 9001 2015</em>.  ',
-      link:
-        'https://www.isotools.org/2016/05/11/mapa-procesos-nueva-iso-9001-2015/',
+      link: '',
     },
     {
       referencia:
