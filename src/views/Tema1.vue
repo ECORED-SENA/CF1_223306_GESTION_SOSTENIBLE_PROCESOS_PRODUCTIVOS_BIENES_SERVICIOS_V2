@@ -318,7 +318,7 @@
     p.mb-5(data-aos='fade-right') La planeación estratégica es un conjunto de acciones por medio de las cuales las organizaciones toman decisiones, establecen plazos y asignan responsabilidades para poder alcanzar sus objetivos. En el siguiente video, se observa la importancia y los pasos para realizar una buena planificación estratégica:
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/cJ72a2qG1G8?si=ze4OVoge9fVJjgtn" title="Planeación estratégica de la organización" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9ht0AKYT-Kk?si=UTkR8Ef68qR3uPJj" title="Planeación estratégica de la organización" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Planeación estratégica de la organización
 
     .titulo(style='background-color: #F0BD51').d-inline-block.p-3.mb-4(data-aos="fade-right")
